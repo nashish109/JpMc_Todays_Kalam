@@ -11,15 +11,15 @@ This project is developed for Today’s Kalam Foundation to streamline and simpl
 This application is built using modern and scalable web technologies:
 
 ```sh
-- Vite – Fast build tool for frontend development
+Vite – Fast build tool for frontend development
 
-- React – Component-based UI library
+React – Component-based UI library
 
-- TypeScript – Type-safe JavaScript
+TypeScript – Type-safe JavaScript
 
-- Tailwind CSS – Utility-first CSS framework
+Tailwind CSS – Utility-first CSS framework
 
-- shadcn/ui – Pre-built accessible UI components
+shadcn/ui – Pre-built accessible UI components
 ```
 
 **Edit a file directly in GitHub**
