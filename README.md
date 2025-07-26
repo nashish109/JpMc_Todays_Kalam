@@ -1,39 +1,25 @@
-# Welcome to your Lovable project
+# Welcome to the Today’s Kalam Admin Dashboard
 
-## Project info
-
+## 📌 Project Overview
+This project is developed for Today’s Kalam Foundation to streamline and simplify the monitoring of student and women development programs. The dashboard enables tutors and coordinators to manage and track attendance, family data, and performance through weekly and monthly assessments, ensuring greater transparency and impact visibility.
 **URL**: https://lovable.dev/projects/27bd047e-abb6-43a4-88bb-af83dd4dc8f8
 
-## How can I edit this code?
 
-There are several ways of editing your application.
 
-**Use Lovable**
+**🛠️ Technologies Used**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/27bd047e-abb6-43a4-88bb-af83dd4dc8f8) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+This application is built using modern and scalable web technologies:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- Vite – Fast build tool for frontend development
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- React – Component-based UI library
 
-# Step 3: Install the necessary dependencies.
-npm i
+- TypeScript – Type-safe JavaScript
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+- Tailwind CSS – Utility-first CSS framework
+
+- shadcn/ui – Pre-built accessible UI components
 ```
 
 **Edit a file directly in GitHub**
@@ -49,25 +35,3 @@ npm run dev
 - Select the "Codespaces" tab.
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/27bd047e-abb6-43a4-88bb-af83dd4dc8f8) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
